@@ -45,3 +45,11 @@
   font-weight: 700;
   src: url("./SFPro/OpenType/SF-Pro-Display-Bold.otf") format("opentype");
 }
+
+
+/** Black */
+@font-face {
+  font-family: "San Francisco";
+  font-weight: 900;
+  src: url("./SFPro/OpenType/SF-Pro-Display-Black.otf") format("opentype");
+}
